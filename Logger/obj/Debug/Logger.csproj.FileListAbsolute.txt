@@ -1,0 +1,5 @@
+c:\Users\ParupatK\documents\visual studio 2015\Projects\Web\Logger\bin\Debug\Logger.dll
+c:\Users\ParupatK\documents\visual studio 2015\Projects\Web\Logger\bin\Debug\Logger.pdb
+c:\Users\ParupatK\documents\visual studio 2015\Projects\Web\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+c:\Users\ParupatK\documents\visual studio 2015\Projects\Web\Logger\obj\Debug\Logger.dll
+c:\Users\ParupatK\documents\visual studio 2015\Projects\Web\Logger\obj\Debug\Logger.pdb
